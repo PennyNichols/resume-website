@@ -1,0 +1,14 @@
+:root{
+    --bodyBackgroundColor: #f7b6b6dc;
+    --mainBackgroundColor: white;
+    --secondaryBackgroundColor: #d16565dc;
+    --mainTextColor: black;
+    --secondaryTextColor: #702424dc;
+    --profileImgBorder: #972727dc;
+    --nameColor: white;
+    --bodyTitle: #4a1818dc;
+    --bodyDetails: #b46666dc;
+    --experienceTitleColor: #892e2edc;
+    --progressBackgroundColor: #cb343468;
+    --themeDotBorder: black;
+}

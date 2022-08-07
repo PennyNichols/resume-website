@@ -1,0 +1,14 @@
+:root{
+    --bodyBackgroundColor: rgb(211, 221, 245);
+    --mainBackgroundColor: white;
+    --secondaryBackgroundColor: rgb(93, 121, 186);
+    --mainTextColor: black;
+    --secondaryTextColor: rgb(31, 52, 100);
+    --profileImgBorder: rgb(50, 73, 127);
+    --nameColor: white;
+    --bodyTitle: rgb(26, 42, 78);
+    --bodyDetails: rgb(74, 102, 167);
+    --experienceTitleColor: rgb(52, 74, 125);
+    --progressBackgroundColor: rgba(166, 184, 226, 0.34);
+    --themeDotBorder: black;
+}
